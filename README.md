@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adrienpont64
 - 👀 I’m interested in rugby and fishing
 - 🌱 I’m currently learning maths
-- 💞️ I’m looking to collaborate on snap
+- 💞️ I’m looking to collaborate on X
 - 📫 How to reach me on adrien.pont@etu.estia.fr
 
 <!---
